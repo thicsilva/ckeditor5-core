@@ -222,9 +222,9 @@
  * You need to add the corresponding translation file for the new UI language to work.
  * Translation files are available on CDN for predefined builds:
  *
- *		`<script src="https://cdn.ckeditor.com/ckeditor5/[version.number]/[distribution]/lang/[lang].js"></script>`
+ *		`<script src="https://cdn.ckeditor.com/ckeditor5/[version.number]/[distribution]/translations/[lang].js"></script>`
  *
- * But you can add them manually by coping from the `node_modules/@ckeditor/ckeditor5-build-[name]/build/lang/[lang].js'`.
+ * But you can add them manually by coping from the `node_modules/@ckeditor/ckeditor5-build-[name]/build/translations/[lang].js'`.
  *
  * Check the {@glink features/ui-language UI language guide} for more information about the localization options and translation process.
  *
